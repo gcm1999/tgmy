@@ -42,7 +42,7 @@ export default {
   position: absolute;
   width: 100%;
   height: 100%;
-  animation: bling 2s infinite linear;
+  animation: bling 1s infinite linear;
 }
 @keyframes bling {
   0% {
